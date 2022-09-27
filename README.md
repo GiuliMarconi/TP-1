@@ -5,7 +5,7 @@
 > "Las raíces de la educación son amargas, pero el fruto es dulce" (Aristóteles) 📖
 ## Historia/Story 
 ___
-¡Hola! Mi nombre es Giuliana, como estudiante, sé lo díficil que se hace mantener todas las materias al día y llegar al día de exámen tranquilo. Por eso, inicié este proyecto que brinda herramientas para ayudarnos a no procastinar y sacar buenas calificaciones.
+¡Hola! Mi nombre es Giuliana, como estudiante, sé lo díficil que se hace mantener todas las materias al día y llegar al día de exámen tranquilo. Por eso, inicié este proyecto que brinda herramientas para ayudarnos a no procrastinar y sacar buenas calificaciones.
 ___
 
 ## 📄 Descripción/Description 
