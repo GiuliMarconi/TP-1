@@ -1,16 +1,14 @@
 # ***Easy Planner***
 
-![Logo](https://www.canva.com/design/DAFNVhTWsNA/view)
+![logo.jpg](https://i.postimg.cc/y6RCg9ZV/logo-Giuli.jpg)
 
-![Logo](sh (2).png)
+> "Las raíces de la educación son amargas, pero el fruto es dulce" (Aristóteles) 📖
 
-> "Las raíces de la educación son amargas, pero el fruto es dulce" (Aristóteles)
-
-## Descripción/Description
+## 📄 Descripción/Description 
 ________________________________________________________________
 ### **Español**
 
-Esta página ecommerce ha sido creada para ayudar a los estudiantes a mantener un orden en sus estudios. Para eso contamos con insumos para tal propósito.
+Esta página e-commerce ha sido creada para ayudar a los estudiantes a mantener un orden en sus estudios. Para eso contamos con insumos para tal propósito.
 
 *Aquí encontraras:*
 - Agendas anuales
@@ -40,19 +38,19 @@ This e-commerce page has been created to help students keep order in their studi
 
 **I hope you enjoy it!**
 ___
-## Paleta de colores/
+## 🎨 Paleta de colores/Color palette
 - #cc5d4c
 - #fffec6
 - #c7d1af
 ___
-## Estado de proyecto/Project status
+##  ℹ️ Estado de proyecto/Project status
 :construction: proyecto en construcción :construction: 
 ________________________________________________________________
-## Tecnologías utilizadas/
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Canva](https://www.canva.com/)
+## 💻 Tecnologías utilizadas/Used technology
+- [Visual Studio Code 🔗](https://code.visualstudio.com/)
+- [Canva 🔗](https://www.canva.com/)
 ________________________________________________________________
-## Autores/Authors
+## 👤 Autores/Authors
 - ***Marconi, Giuliana***
 
 
