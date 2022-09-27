@@ -2,6 +2,8 @@
 
 ![Logo](https://www.canva.com/design/DAFNVhTWsNA/view)
 
+![Logo](sh (2).png)
+
 > "Las raíces de la educación son amargas, pero el fruto es dulce" (Aristóteles)
 
 ## Descripción/Description
@@ -44,9 +46,9 @@ ___
 - #c7d1af
 ___
 ## Estado de proyecto/Project status
-Actualmente el proyecto está en proceso
+:construction: proyecto en construcción :construction: 
 ________________________________________________________________
-## Agradecimientos/Acknowledgment
+## Tecnologías utilizadas/
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Canva](https://www.canva.com/)
 ________________________________________________________________
